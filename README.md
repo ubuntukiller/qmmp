@@ -1,4 +1,1 @@
-qmmp
-====
-
-music player linux qmmp 7.0
+Supported formats: MPEG1 layer 2/3, Ogg Vorbis, Native FLAC, Ogg FLAC, Musepack, WavePack, Tracker modules (mod, s3m, it, xm, etc), ADTS AAC, CD Audio, WMA, Monkey's Audio, PCM WAVE, Midi, Chiptune formats (AY, GBS, GYM, HES, KSS, NSF, NSFE, SAP, SPC, VGM, VGZ, VTX).
